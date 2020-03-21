@@ -49,7 +49,7 @@ main {
 .section__1 {
   max-width: 1248px;
   max-height: 100%;
-  background: url(/img/shopping.png) no-repeat bottom right;
+  background: url(../img/shopping.png) no-repeat bottom right;
 }
 
 .topwrapper {
@@ -349,19 +349,19 @@ h2 {
 }
 
 .box--green {
-  background: url(/background/green.svg) no-repeat right bottom;
+  background: url(../background/green.svg) no-repeat right bottom;
 }
 
 .box--purple {
-  background: url(/background/purple.svg) no-repeat right bottom;
+  background: url(../background/purple.svg) no-repeat right bottom;
 }
 
 .box__pink {
-  background: url(/background/pink.svg) no-repeat right bottom;
+  background: url(../background/pink.svg) no-repeat right bottom;
 }
 
 .box--blue {
-  background: url(/background/blue.svg) no-repeat right bottom;
+  background: url(../background/blue.svg) no-repeat right bottom;
 }
 
 .box-text {
@@ -649,7 +649,7 @@ h6 {
 
   .headline-wrapper,
   .section__1 {
-    background-size: 50vmin 20%;
+    background-size: 50vmin 30%;
     background-position: right bottom;
   }
 
